@@ -1,11 +1,15 @@
+<div align="center">
+   <a href="https://vocasia.id" target="_blank">
+      <img src="https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/0efd43af-bfdd-49fc-9a95-af9a7d9ae616" alt="logo-dark" width="300" height="80">
+   </a>
+</div>
 <h2 align="center">
-  Flutter App<br/>
-  <a>Presence App</a>
+  <a>Online Course App</a>
 </br>
   <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
 </h2>
 
-An attendance or time- tracking app, to help monitor and manage the attendance and presence of employee
+Vocasia.id is an online educational marketplace & learning management system platform for sharing structured skills and knowledge. Vocasia can be widely used for both individuals and communities with affordable training prices.
 
 ## Screenshots
 
@@ -13,11 +17,11 @@ An attendance or time- tracking app, to help monitor and manage the attendance a
 
 <center>
 
-![presence1](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/ab11636c-7b9d-4752-a671-231cc5a5a496)
-![presence2](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/c09c1489-7101-4a2e-addc-38305b679ed4)
-![presence3](https://github.com/ArifIlham0/flutter-presence-app/assets/90549963/1fd6c03d-09ed-402d-ad3c-e3418d7903e3)
-
-
+![vocasia1](https://github.com/ArifIlham0/vocasia-mobile-app/assets/90549963/5aa1d9de-6c9b-408e-b588-9fe55c1924ee)
+![vocasia2](https://github.com/ArifIlham0/vocasia-mobile-app/assets/90549963/31c57db1-057e-49e5-b88f-e8da9b384ea1)
+![vocasia3](https://github.com/ArifIlham0/vocasia-mobile-app/assets/90549963/b273e46c-1d08-485a-9fb6-5ddf5a61cea5)
+![vocasia4](https://github.com/ArifIlham0/vocasia-mobile-app/assets/90549963/a68e1c77-fade-497e-b9d1-a55c86e4c01b)
+![vocasia5](https://github.com/ArifIlham0/vocasia-mobile-app/assets/90549963/1c93161c-2117-4455-9c22-bf3e6b172421)
 
 </center>
 
@@ -32,19 +36,7 @@ An attendance or time- tracking app, to help monitor and manage the attendance a
 This project was built using these technologies.
 
 - Flutter
-- Dart
+- Provider
 - Firebase
-- VS Code
+- Code Igniter 4 (Backend)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
