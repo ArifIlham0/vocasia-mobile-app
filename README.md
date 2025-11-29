@@ -9,6 +9,10 @@
   <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
 </h2>
 
+<h2 align="center">
+  <a href="https://play.google.com/store/apps/details?id=id.vocasia.vocasia_app" target="_blank">Play Store</a>
+</h2>
+
 Vocasia.id is an online educational marketplace & learning management system platform for sharing structured skills and knowledge. Vocasia can be widely used for both individuals and communities with affordable training prices.
 
 ## Screenshots
